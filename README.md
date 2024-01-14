@@ -41,6 +41,9 @@ Discover and contribute to a collection of good examples showcasing bicycle infr
 * Repository: https://github.com/MunichWays/bike-infrastructure
 * Webside: https://www.munichways.de/infrastruktur-elemente/
 
+# Overview
+![MunichWays-Overview drawio](https://github.com/MunichWays/.github/assets/46649582/0b715911-a99d-4b82-9bfc-f8eef26c727b)
+
 --------------------------------------------------------------
 **So einfach wie Radfahren**
 
