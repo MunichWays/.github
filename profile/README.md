@@ -16,6 +16,8 @@ Wir von der Bürgerinitiative [MunichWays](https://www.munichways.de/app)  suche
 ## Overview Dataflow
 <img src="https://www.munichways.de/img/MunichWays-Overview.drawio.png">
 
+geoJSON files:
+
 - Google Drive: [\MunichWays_Dateien_geteilt\RadlVorrang-Netz\Download ](https://drive.google.com/drive/folders/1u4Q1dyMuB1n0j2_YgQxiK_xfLVC1VYE9?usp=sharing)
 
 - Webspace: https://www.munichways.de/App/ (accessible only via API, not via browser)
