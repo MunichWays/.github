@@ -14,11 +14,11 @@ Wir von der Bürgerinitiative [MunichWays](https://www.munichways.de/app)  suche
 - Du wohnst praktischerweise in oder in der Nähe von München.
 
 ## Overview Dataflow
-<p align="center">
 <img src="https://www.munichways.de/img/MunichWays-Overview.drawio.png">
-<br>
-Eine der ersten Protected Bikelanes in München als Pilotversuch in der Brienner Straße im Mai 2022.
-</p>
+
+- Google Drive: [\MunichWays_Dateien_geteilt\RadlVorrang-Netz\Download ](https://drive.google.com/drive/folders/1u4Q1dyMuB1n0j2_YgQxiK_xfLVC1VYE9?usp=sharing)
+
+- Webspace: https://www.munichways.de/App/ (accessible only via API, not via browser)
 
 ## OpenStreetMap and MunichWays
 https://www.munichways.de/osm/
