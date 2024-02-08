@@ -12,6 +12,9 @@ Wir von der Bürgerinitiative [MunichWays](https://www.munichways.de/app)  suche
 - Du kannst Dich mit unserer Arbeit für eine bessere Fahrradinfrastruktur identifizieren und möchtest Dich aktiv einbringen, und Du fährst auch gerne Fahrrad.
 - Du hast Grundkenntnisse und (erste) praktische Erfahrung in der App-Entwicklung oder mit OpenStreetMap.
 - Du wohnst praktischerweise in oder in der Nähe von München.
+  
+Schließe dich unserem agilen Team an und unterstütze uns bei der Wartung und Weiterentwicklung unserer offenen IT-Lösungen.
+  
 
 ## Overview Dataflow
 <img src="https://www.munichways.de/img/MunichWays-Overview.drawio.png">
