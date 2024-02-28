@@ -14,6 +14,8 @@ Wir von der Bürgerinitiative [MunichWays](https://www.munichways.de/app)  suche
 - Du wohnst praktischerweise in oder in der Nähe von München.
   
 Schließe dich unserem agilen Team an und unterstütze uns bei der Wartung und Weiterentwicklung unserer offenen IT-Lösungen.
+- App Srumboard mit offenen Aufgaben: https://github.com/orgs/MunichWays/projects/1
+- [Wiki Anleiting OSM-Mapping](https://github.com/MunichWays/OSM/wiki/How-To-OSM-Erg%C3%A4nzen)
   
 
 ## Overview Dataflow
