@@ -42,7 +42,7 @@ Discover and contribute to a collection of good examples showcasing bicycle infr
 * Webside: https://www.munichways.de/infrastruktur-elemente/
 
 # Overview
-![MunichWays-Overview drawio](https://github.com/MunichWays/.github/assets/46649582/0b715911-a99d-4b82-9bfc-f8eef26c727b)
+<img src="https://www.munichways.de/img/MunichWays-Overview.drawio.png">
 
 --------------------------------------------------------------
 **So einfach wie Radfahren**
